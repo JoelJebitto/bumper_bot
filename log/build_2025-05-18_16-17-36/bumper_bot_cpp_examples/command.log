@@ -1,0 +1,1 @@
+Invoking command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples -- -j8 -l8
