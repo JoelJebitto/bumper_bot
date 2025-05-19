@@ -1,0 +1,25 @@
+[0.013s] Invoking command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples -- -j8 -l8
+[0.071s] [ 50%] [32mBuilding CXX object CMakeFiles/simple_publisher.dir/src/simple_publisher.cpp.o[0m
+[4.243s] [100%] [32m[1mLinking CXX executable simple_publisher[0m
+[4.463s] [100%] Built target simple_publisher
+[4.502s] Invoked command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples -- -j8 -l8
+[4.540s] Invoking command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples
+[4.569s] -- Install configuration: ""
+[4.570s] -- Installing: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/bumper_bot_cpp_examples/simple_publisher
+[4.571s] -- Set non-toolchain portion of runtime path of "/home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/bumper_bot_cpp_examples/simple_publisher" to ""
+[4.572s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/ament_index/resource_index/package_run_dependencies/bumper_bot_cpp_examples
+[4.572s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/ament_index/resource_index/parent_prefix_path/bumper_bot_cpp_examples
+[4.573s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/environment/ament_prefix_path.sh
+[4.573s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/environment/ament_prefix_path.dsv
+[4.574s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/environment/path.sh
+[4.574s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/environment/path.dsv
+[4.574s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/local_setup.bash
+[4.575s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/local_setup.sh
+[4.575s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/local_setup.zsh
+[4.575s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/local_setup.dsv
+[4.576s] -- Installing: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/package.dsv
+[4.576s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/ament_index/resource_index/packages/bumper_bot_cpp_examples
+[4.577s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/cmake/bumper_bot_cpp_examplesConfig.cmake
+[4.577s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/cmake/bumper_bot_cpp_examplesConfig-version.cmake
+[4.577s] -- Up-to-date: /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/share/bumper_bot_cpp_examples/package.xml
+[4.581s] Invoked command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples

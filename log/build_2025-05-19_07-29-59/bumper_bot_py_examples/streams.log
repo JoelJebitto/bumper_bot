@@ -1,0 +1,21 @@
+[2.501s] Invoking command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/src/bumper_bot_py_examples': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bumper_bot_py_examples build --build-base /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/build install --record /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/install.log --single-version-externally-managed install_data
+[3.134s] running egg_info
+[3.185s] writing ../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/PKG-INFO
+[3.185s] writing dependency_links to ../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/dependency_links.txt
+[3.185s] writing entry points to ../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/entry_points.txt
+[3.185s] writing requirements to ../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/requires.txt
+[3.185s] writing top-level names to ../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/top_level.txt
+[3.282s] reading manifest file '../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/SOURCES.txt'
+[3.282s] writing manifest file '../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info/SOURCES.txt'
+[3.284s] running build
+[3.284s] running build_py
+[3.284s] running install
+[3.298s] running install_lib
+[3.345s] running install_data
+[3.346s] running install_egg_info
+[3.398s] removing '/home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/python3.12/site-packages/bumper_bot_py_examples-0.0.0-py3.12.egg-info' (and everything under it)
+[3.400s] Copying ../../build/bumper_bot_py_examples/bumper_bot_py_examples.egg-info to /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/python3.12/site-packages/bumper_bot_py_examples-0.0.0-py3.12.egg-info
+[3.401s] running install_scripts
+[3.709s] Installing simple_publisher script to /home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/bumper_bot_py_examples
+[3.710s] writing list of installed files to '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/install.log'
+[3.838s] Invoked command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/src/bumper_bot_py_examples' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/joeljebitto/workspace/01-ROS/01-BumperBot/install/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/bumper_bot_py_examples build --build-base /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/build install --record /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_py_examples/install.log --single-version-externally-managed install_data

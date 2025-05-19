@@ -1,0 +1,32 @@
+[0.015s] Invoking command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples -- -j8 -l8
+[0.041s] -- Found ament_cmake: 2.5.4 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[0.357s] -- Found rclcpp: 28.1.9 (/opt/ros/jazzy/share/rclcpp/cmake)
+[0.396s] -- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+[0.408s] -- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+[0.422s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.442s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.517s] -- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+[0.518s] -- Found rmw_fastrtps_cpp: 8.4.2 (/opt/ros/jazzy/share/rmw_fastrtps_cpp/cmake)
+[0.593s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.666s] -- Found std_msgs: 5.3.6 (/opt/ros/jazzy/share/std_msgs/cmake)
+[0.683s] -- Found ament_lint_auto: 0.17.2 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[0.795s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[0.795s] -- Configured cppcheck include dirs: 
+[0.795s] -- Configured cppcheck exclude dirs and/or files: 
+[0.798s] -- Added test 'lint_cmake' to check CMake code style
+[0.804s] -- Added test 'uncrustify' to check C / C++ code style
+[0.804s] -- Configured uncrustify additional arguments: 
+[0.805s] -- Added test 'xmllint' to check XML markup files
+[0.806s] -- Configuring done (0.8s)
+[0.820s] -- Generating done (0.0s)
+[0.826s] -- Build files have been written to: /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples
+[0.860s] [ 25%] [32mBuilding CXX object CMakeFiles/simple_subscriber.dir/src/simple_subscriber.cpp.o[0m
+[0.868s] [ 75%] Built target simple_publisher
+[7.514s] [100%] [32m[1mLinking CXX executable simple_subscriber[0m
+[7.920s] /usr/bin/ld: /usr/lib/gcc/x86_64-linux-gnu/13/../../../x86_64-linux-gnu/Scrt1.o: in function `_start':
+[7.920s] (.text+0x1b): undefined reference to `main'
+[7.988s] collect2: error: ld returned 1 exit status
+[7.990s] gmake[2]: *** [CMakeFiles/simple_subscriber.dir/build.make:171: simple_subscriber] Error 1
+[7.990s] gmake[1]: *** [CMakeFiles/Makefile2:165: CMakeFiles/simple_subscriber.dir/all] Error 2
+[7.990s] gmake: *** [Makefile:146: all] Error 2
+[7.992s] Invoked command in '/home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/joeljebitto/workspace/01-ROS/01-BumperBot/build/bumper_bot_cpp_examples -- -j8 -l8
